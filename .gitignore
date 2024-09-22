@@ -1,0 +1,32 @@
+# Eclipse-specific files
+.settings/
+.metadata/.plugins/org.eclipse.jdt.core/.projects/
+
+# Maven-specific files
+.mvn/
+target/
+build/
+
+# Generated files
+out/
+bin/
+
+# Log files
+*.log
+*.err
+
+# Temporary files
+*.tmp
+*.swp
+
+# IDE-specific files
+.idea/
+*.iml
+
+# Specific Maven artifacts
+.classpath
+.project
+
+# Other generated files
+.DS_Store
+Thumbs.db
