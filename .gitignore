@@ -1,7 +1,8 @@
 # Eclipse-specific files
 .settings/
 .metadata/.plugins/org.eclipse.jdt.core/.projects/
-
+.metadata
+.metadata/
 # Maven-specific files
 .mvn/
 target/
